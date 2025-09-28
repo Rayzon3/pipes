@@ -1,0 +1,22 @@
+{
+  "name": "pipes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rayzon3/pipes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rayzon3/pipes/issues"
+  },
+  "homepage": "https://github.com/Rayzon3/pipes#readme"
+}
